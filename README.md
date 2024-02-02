@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/GMarqz/single-price-grid-component-master)
-- Live Site URL: [Vercel](https://single-price-grid-component-master-topaz-phi.vercel.app)
+- Live Site URL: [Vercel](https://single-price-grid-component-beryl-phi.vercel.app)
 
 ### Built with
 
