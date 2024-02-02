@@ -1,0 +1,28 @@
+.container {
+    
+    width: 19.4375rem;
+    height: 45.125rem;
+    margin: 4.5rem 2rem 3.875rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: var(--light-gray);
+    font-family: var(--font);
+    font-size: 1rem;
+    color: var(--white);
+}
+
+@media screen and (min-width: 1440px) {
+    
+    .container {
+        margin: 10.19rem 25.12rem 10.12rem 25.19rem;
+        width: 39rem;
+        height: 28rem;
+        display: grid;
+        grid-template-areas: 
+        ".container__community"
+        ".container__subscription" ".container__why-us"
+        ;
+    }
+}
